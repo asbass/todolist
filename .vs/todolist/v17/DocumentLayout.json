@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\tai\\todo\\todolist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\data\\appdbcontext..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:data\\appdbcontext..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\model\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:model\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\controllers\\quotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:controllers\\quotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\model\\weeklyquota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:model\\weeklyquota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|c:\\tai\\todo\\todolist\\todolist.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{316875A4-94DA-42E2-A141-BD5C693683D8}|todolist.csproj|solutionrelative:todolist.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\model\\User.cs",
+              "RelativeDocumentMoniker": "model\\User.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\model\\User.cs",
+              "RelativeToolTip": "model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:01:31.156Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\model\\AuditLog.cs",
+              "RelativeDocumentMoniker": "model\\AuditLog.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\model\\AuditLog.cs",
+              "RelativeToolTip": "model\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:09:23.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:09:02.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:00:17.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\DTOs\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\NotificationDto.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\DTOs\\NotificationDto.cs",
+              "RelativeToolTip": "DTOs\\NotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:59:33.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuotaController.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\Controllers\\QuotaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuotaController.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\Controllers\\QuotaController.cs",
+              "RelativeToolTip": "Controllers\\QuotaController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:47:48.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:25:14.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADgvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:23:45.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\Helpers\\JwtService.cs",
+              "RelativeDocumentMoniker": "Helpers\\JwtService.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\Helpers\\JwtService.cs",
+              "RelativeToolTip": "Helpers\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:18:42.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:17:58.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:17:39.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAADwvyEBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T07:59:03.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext..cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\data\\AppDbContext..cs",
+              "RelativeDocumentMoniker": "data\\AppDbContext..cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\data\\AppDbContext..cs",
+              "RelativeToolTip": "data\\AppDbContext..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T07:59:44.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "todolist.http",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\todolist.http",
+              "RelativeDocumentMoniker": "todolist.http",
+              "ToolTip": "C:\\tai\\todo\\todolist\\todolist.http",
+              "RelativeToolTip": "todolist.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-17T15:21:42.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\tai\\todo\\todolist\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T17:40:01.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeeklyQuota.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\model\\WeeklyQuota.cs",
+              "RelativeDocumentMoniker": "model\\WeeklyQuota.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\model\\WeeklyQuota.cs",
+              "RelativeToolTip": "model\\WeeklyQuota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:02:45.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\model\\TaskItem.cs",
+              "RelativeDocumentMoniker": "model\\TaskItem.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\model\\TaskItem.cs",
+              "RelativeToolTip": "model\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:02:01.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\tai\\todo\\todolist\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:00:55.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\tai\\todo\\todolist\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\tai\\todo\\todolist\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-08T07:58:24.814Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
